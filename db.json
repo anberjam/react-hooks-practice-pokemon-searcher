@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Anber",
+      "hp": "400",
+      "sprites": {
+        "front": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhP9DK8tUHOwST3c-bv6ekkcbQMNVhYXZ75Hi4JWJKO_KGJIVtgkHfretq-KzgY1Nw768AUBR&usqp=CAc",
+        "back": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhP9DK8tUHOwST3c-bv6ekkcbQMNVhYXZ75Hi4JWJKO_KGJIVtgkHfretq-KzgY1Nw768AUBR&usqp=CAc"
+      },
+      "id": 151
     }
   ]
 }
